@@ -1,0 +1,19 @@
+root 0
+- art 1
+-- painting 11
+-- music 12
+--- singing 121
+--- piano 122
+--- guitar 123
+-- dancing 13
+--- ballet 131
+--- hip-hop 132
+--- folk_dance 133
+-- literature 14
+- science 2
+-- physics 21
+-- math 22
+- sport 3
+-- football 31
+-- volleyball 32
+-- tennis 33

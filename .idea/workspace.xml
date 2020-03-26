@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff24b29f-8dc8-44ae-88fe-ffa3f963877e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZUsGXHjE8crPuZwPCS3W145asu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ig_group.App" />
+      <module name="java_pjt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ig_group.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff24b29f-8dc8-44ae-88fe-ffa3f963877e" name="Default Changelist" comment="" />
+      <created>1584904911194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584904911194</updated>
+      <workItem from="1584904913777" duration="945000" />
+      <workItem from="1584909781078" duration="743000" />
+      <workItem from="1584952062018" duration="17452000" />
+      <workItem from="1585037602504" duration="19702000" />
+      <workItem from="1585164210319" duration="6976000" />
+      <workItem from="1585217614518" duration="13106000" />
+      <workItem from="1585232210871" duration="6185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="350" y="94" key="#Project_Structure" timestamp="1584954290222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="350" y="94" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584954290222" />
+    <state x="545" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1585235392262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="545" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585235392262" />
+    <state x="223" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585165823689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1585165823689" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585054985830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585054985830" />
+    <state width="452" height="466" key="DebuggerActiveHint" timestamp="1585223783438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="452" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1585223783438" />
+    <state x="574" y="155" key="FileChooserDialogImpl" timestamp="1584955094382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584955094382" />
+    <state width="1342" height="224" key="GridCell.Tab.0.bottom" timestamp="1585238190747">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="224" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585238190747" />
+    <state width="1342" height="224" key="GridCell.Tab.0.center" timestamp="1585238190747">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="224" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585238190747" />
+    <state width="1342" height="224" key="GridCell.Tab.0.left" timestamp="1585238190746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="224" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585238190746" />
+    <state width="1342" height="224" key="GridCell.Tab.0.right" timestamp="1585238190747">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="224" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585238190747" />
+    <state width="1342" height="183" key="GridCell.Tab.1.bottom" timestamp="1585236687792">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="183" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585236687791" />
+    <state width="1342" height="183" key="GridCell.Tab.1.center" timestamp="1585236687791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="183" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585236687791" />
+    <state width="1342" height="183" key="GridCell.Tab.1.left" timestamp="1585236687791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="183" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585236687791" />
+    <state width="1342" height="183" key="GridCell.Tab.1.right" timestamp="1585236687791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="183" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585236687791" />
+    <state x="301" y="58" key="Maven.ArtifactSearchDialog" timestamp="1584952098585">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="301" y="58" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1584952098585" />
+    <state x="393" y="0" key="SettingsEditor" timestamp="1585222618223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585222618223" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1585059293133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1585059293133" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1585217626068">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585217626068" />
+    <state x="523" y="329" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585222617448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="329" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1585222617448" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((LinkedHashMap)((FastLookupDirectedSpecifics)((DefaultDirectedGraph)TreeProvider.g).specifics).vertexMap).entrySet().toArray()[0]" custom="org.jgrapht.graph.specifics.FastLookupDirectedSpecifics,java.util.LinkedHashMap,org.jgrapht.graph.DefaultDirectedGraph" />
+        <watch expression="this.i" custom="java.util.Iterator" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
